@@ -27,51 +27,59 @@ page_type | languages | products
 ### ◽ Data Structure 
  - ❶ cycle: top level structure array containing the charge, discharge and impedance operations
 
- 　cycle　|　　　　|　　　　|　　　　|
- :------:|:------:|:------:|:------:|
+   |　cycle　|`⇦ Complex Data Structure( Nested Data )` |
+   |:------:|:------:|
+   
+   ⏬
 
  - ❷ type: operation type, can be charge, discharge or impedance
 
-type | ambient_temperature | time | data
-:------:|:------:|:------:|:------:|
-charge||||
-discharge ||||
-impedance ||||
+   |type | ambient_temperature | time | data|
+   |:------:|:------:|:------:|:------:|
+   |charge|`24℃`|`yyyy-MM-dd HH:mm:ss.SSSSSS`|`data`|
+   |discharge |''|''|''|
+   |impedance |''|''|''|
 
-- ❸-1) Data : type = charge
+   ⏬
+   
+ - ❸-1) Data : type = charge
 
-type | ambient_temperature | time | data
-:------:|:------:|:------:|:------|
-charge|||Voltage_measured|
-''|||Current_measured|
-''|||Temperature_measured|
-''|||Current_charge|
-''|||Voltage_charge|
-''|||Time|
+   |type | ambient_temperature | time | data
+   |:------:|:------:|:------:|:------|
+   |charge|`24℃`|`yyyy-MM-dd HH:mm:ss.SSSSSS`|Voltage_measured|
+   |''|''|''|Current_measured|
+   |''|''|''|Temperature_measured|
+   |''|''|''|Current_charge|
+   |''|''|''|Voltage_charge|
+   |''|''|''|Time|
+
+   ⏬
 
 - ❸-2) Data : type = discharge
 
-type | ambient_temperature | time | data
-:------:|:------:|:------:|:------|
-discharge|||Voltage_measured|
-''|||Current_measured|
-''|||Temperature_measured|
-''|||Current_charge|
-''|||Voltage_charge|
-''|||Time|
-''|||Capacity|
+   |type | ambient_temperature | time | data
+   |:------:|:------:|:------:|:------|
+   |discharge|`24℃`|`yyyy-MM-dd HH:mm:ss.SSSSSS`|Voltage_measured|
+   |''|''|''|Current_measured|
+   |''|''|''|Temperature_measured|
+   |''|''|''|Current_charge|
+   |''|''|''|Voltage_charge|
+   |''|''|''|Time|
+   |''|''|''|Capacity|
 
-- ❸-3) Data : type = impedance
+   ⏬
 
-type | ambient_temperature | time | data
-:------:|:------:|:------:|:------|
-impedance|||Sense_current|
-''|||Battery_current|
-''|||Current_ratio|
-''|||Battery_impedance|
-''|||Rectified_impedance|
-''|||Re|
-''|||Rct|
+ - ❸-3) Data : type = impedance
+
+   |type | ambient_temperature | time | data
+   |:------:|:------:|:------:|:------|
+   |impedance|`24℃`|`yyyy-MM-dd HH:mm:ss.SSSSSS`|Sense_current|
+   |''|''|''|Battery_current|
+   |''|''|''|Current_ratio|
+   |''|''|''|Battery_impedance|
+   |''|''|''|Rectified_impedance|
+   |''|''|''|Re|
+   |''|''|''|Rct|
 ---
 <br>
 
