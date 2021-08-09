@@ -25,14 +25,22 @@ page_type | languages | products
 - EOL : End of Life
 
 ### ◽ Data Structure 
+①
 　cycle　|　　　　|　　　　|　　　　|
 :------:|:------:|:------:|:------:|
 
+②
 type | ambient_temperature | time | data
 :------:|:------:|:------:|:------:|
 charge||||
 discharge ||||
 impedance ||||
+
+③
+
+
+
+
 
 ### ◽ Understanding LSTM Networks
 > **Read a Blog** - http://colah.github.io/posts/2015-08-Understanding-LSTMs/
