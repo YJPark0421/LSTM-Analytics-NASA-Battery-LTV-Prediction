@@ -31,8 +31,6 @@ products|`azure` `azure-databricks`
 
 description: "Code which demonstrates how to set up and operationalize an MLOps flow leveraging Azure Machine Learning and Azure DevOps."
 
-Category | Description
-------|:------:
-page_type | `Dev`
-languages | `python`
-products|`azure` `azure-databricks`
+page_type | languages | products
+:------:|:------:|:------:
+`Dev` |`python`|`azure` `azure-databricks`
