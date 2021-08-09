@@ -33,5 +33,5 @@ page_type | languages | products
 ## 4️⃣ Reference
 ### ◽ Description
     null
-> **URL①** - https://ieeexplore.ieee.org/document/8967059<br></br>
+> **URL①** - https://ieeexplore.ieee.org/document/8967059<br>
 > **URL②**
