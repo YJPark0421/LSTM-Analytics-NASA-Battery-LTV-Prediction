@@ -2,7 +2,9 @@
 
 ## 1️⃣ Overview
 ### ◽ Objective
-
+ - [x] NASA에서 제공하는 4개 셀 리튬이온 배터리 데이터를 명세하고 분석하여 데이터를 이해한다.
+ - [x] 데이터 전처리 및 학습에 알맞은 형태로 가공한다.
+ - [x] AI(ML/DL)기반의 다양한 `방법론(알고리즘,모델)`을 적용한 배터리 잔존수명예측 모델링을 진행한다.
 ---
 ### ◽ Development Environment
 page_type | languages | products
