@@ -1,6 +1,8 @@
 # Remaining Useful Life Prediction Using NASA Battery Data Set
 
 ## 1️⃣ Overview
+### ◽ Objective
+
 
 ### ◽ Development Environment
 page_type | languages | products
