@@ -25,12 +25,12 @@ page_type | languages | products
 - EOL : End of Life
 
 ### ◽ Data Structure 
-- ① cycle: top level structure array containing the charge, discharge and impedance operations
+ - ❶ cycle: top level structure array containing the charge, discharge and impedance operations
 
-　cycle　|　　　　|　　　　|　　　　|
-:------:|:------:|:------:|:------:|
+ 　cycle　|　　　　|　　　　|　　　　|
+ :------:|:------:|:------:|:------:|
 
-- ② type: operation type, can be charge, discharge or impedance
+ - ❷ type: operation type, can be charge, discharge or impedance
 
 type | ambient_temperature | time | data
 :------:|:------:|:------:|:------:|
@@ -38,7 +38,7 @@ charge||||
 discharge ||||
 impedance ||||
 
-- ③-1) Data : type = charge
+- ❸-1) Data : type = charge
 
 type | ambient_temperature | time | data
 :------:|:------:|:------:|:------|
@@ -49,7 +49,7 @@ charge|||Voltage_measured|
 ''|||Voltage_charge|
 ''|||Time|
 
-- ③-2) Data : type = discharge
+- ❸-2) Data : type = discharge
 
 type | ambient_temperature | time | data
 :------:|:------:|:------:|:------|
@@ -61,7 +61,7 @@ discharge|||Voltage_measured|
 ''|||Time|
 ''|||Capacity|
 
-- ③-3) Data : type = impedance
+- ❸-3) Data : type = impedance
 
 type | ambient_temperature | time | data
 :------:|:------:|:------:|:------|
