@@ -79,7 +79,7 @@ impedance|||Sense_current|
 ### ◽ Understanding LSTM Networks
 > **Read a Blog** - http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 ---
-<br></br>
+<br>
 
 ## 4️⃣ Reference
 > **URL①** - https://ieeexplore.ieee.org/document/8967059<br>
