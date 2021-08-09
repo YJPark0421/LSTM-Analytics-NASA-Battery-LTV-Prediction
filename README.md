@@ -25,36 +25,61 @@ page_type | languages | products
 - EOL : End of Life
 
 ### ◽ Data Structure 
-①
+- ① cycle: top level structure array containing the charge, discharge and impedance operations
+
 　cycle　|　　　　|　　　　|　　　　|
 :------:|:------:|:------:|:------:|
 
-②
+- ② type: operation type, can be charge, discharge or impedance
+
 type | ambient_temperature | time | data
 :------:|:------:|:------:|:------:|
 charge||||
 discharge ||||
 impedance ||||
 
-③
+- ③-1) Data : type = charge
 
+type | ambient_temperature | time | data
+:------:|:------:|:------:|:------|
+charge|||Voltage_measured|
+''|||Current_measured|
+''|||Temperature_measured|
+''|||Current_charge|
+''|||Voltage_charge|
+''|||Time|
 
+- ③-2) Data : type = discharge
 
+type | ambient_temperature | time | data
+:------:|:------:|:------:|:------|
+discharge|||Voltage_measured|
+''|||Current_measured|
+''|||Temperature_measured|
+''|||Current_charge|
+''|||Voltage_charge|
+''|||Time|
+''|||Capacity|
 
+- ③-3) Data : type = impedance
 
-### ◽ Understanding LSTM Networks
-> **Read a Blog** - http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+type | ambient_temperature | time | data
+:------:|:------:|:------:|:------|
+impedance|||Sense_current|
+''|||Battery_current|
+''|||Current_ratio|
+''|||Battery_impedance|
+''|||Rectified_impedance|
+''|||Re|
+''|||Rct|
 ---
 <br>
 
 ## 3️⃣ Methodology
-### ◽ Description
-    null
-
+### ◽ Understanding LSTM Networks
+> **Read a Blog** - http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+---
 <br></br>
 
 ## 4️⃣ Reference
-### ◽ Description
-    null
 > **URL①** - https://ieeexplore.ieee.org/document/8967059<br>
-> **URL②**
