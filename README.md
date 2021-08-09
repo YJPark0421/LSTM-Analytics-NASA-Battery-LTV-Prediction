@@ -19,10 +19,25 @@ page_type | languages | products
 <br>
 
 ## 2️⃣ PreRequirement
-### ◽ Data Description
-    null
+### ◽ Understanding Data 
+- SOH : State of Health
+- RUL : Remaining Useful Life
+- EOL : End of Life
 
-<br></br>
+### ◽ Data Structure 
+　cycle　|　　　　|　　　　|　　　　|
+:------:|:------:|:------:|:------:|
+
+type | ambient_temperature | time | data
+:------:|:------:|:------:|:------:|
+charge||||
+discharge ||||
+impedance ||||
+
+### ◽ Understanding LSTM Networks
+> **Read a Blog** - http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+---
+<br>
 
 ## 3️⃣ Methodology
 ### ◽ Description
