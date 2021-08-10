@@ -46,9 +46,9 @@ page_type | languages | products
 
 ## 3️⃣ Methodology
 ### ◽ Part1 : Convert .mat to json
-   > - [Part2_preprocessing.py](./Part2_preprocessing.py) **|** [Part2_preprocessing.ipynb](./Part2_preprocessing.ipynb)
+   > - [Part1_preprocessing.py](./Part2_preprocessing.py) **|** [Part2_preprocessing.ipynb](./Part2_preprocessing.ipynb)
 ### ◽ Part2 : LSTM Based Modeling
-   > - [LSTM_Based_SOH_Prediction.py](./LSTM_Based_SOH_Prediction.py.py) **|** [LSTM_Based_SOH_Prediction.ipynb](./LSTM_Based_SOH_Prediction.ipynb)
+   > - [LSTM_Based_SOH_Prediction.py](https://github.com/YJPark0421/NASA-PCoE-Battery-Analytics/blob/master/Code/LSTM_Based_SOH_Prediction.py) **|** [LSTM_Based_SOH_Prediction.ipynb](https://github.com/YJPark0421/NASA-PCoE-Battery-Analytics/blob/master/Code/LSTM_Based_SOH_Prediction.ipynb)
 ### ◽ Understanding LSTM Networks
 > **Read a Blog** - http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 ---
