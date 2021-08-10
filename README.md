@@ -39,47 +39,7 @@ page_type | languages | products
    |charge|`24℃`|`yyyy-MM-dd HH:mm:ss.SSSSSS`|`data`|
    |discharge |''|''|''|
    |impedance |''|''|''|
-
-   ⏬
    
- - ❸-1) Data : type = charge
-
-   |type | ambient_temperature | time | data
-   |:------:|:------:|:------:|:------|
-   |charge|`24℃`|`yyyy-MM-dd HH:mm:ss.SSSSSS`|Voltage_measured|
-   |''|''|''|Current_measured|
-   |''|''|''|Temperature_measured|
-   |''|''|''|Current_charge|
-   |''|''|''|Voltage_charge|
-   |''|''|''|Time|
-
-   ⏬
-
-- ❸-2) Data : type = discharge
-
-   |type | ambient_temperature | time | data
-   |:------:|:------:|:------:|:------|
-   |discharge|`24℃`|`yyyy-MM-dd HH:mm:ss.SSSSSS`|Voltage_measured|
-   |''|''|''|Current_measured|
-   |''|''|''|Temperature_measured|
-   |''|''|''|Current_charge|
-   |''|''|''|Voltage_charge|
-   |''|''|''|Time|
-   |''|''|''|Capacity|
-
-   ⏬
-
- - ❸-3) Data : type = impedance
-
-   |type | ambient_temperature | time | data
-   |:------:|:------:|:------:|:------|
-   |impedance|`24℃`|`yyyy-MM-dd HH:mm:ss.SSSSSS`|Sense_current|
-   |''|''|''|Battery_current|
-   |''|''|''|Current_ratio|
-   |''|''|''|Battery_impedance|
-   |''|''|''|Rectified_impedance|
-   |''|''|''|Re|
-   |''|''|''|Rct|
 ---
 <br>
 
