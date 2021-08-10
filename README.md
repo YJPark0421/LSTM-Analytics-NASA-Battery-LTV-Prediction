@@ -52,7 +52,8 @@ page_type | languages | products
 ### ◽ Part3 : Modeling
    > - [LSTM_Based_SOH_Prediction.py](https://github.com/YJPark0421/NASA-PCoE-Battery-Analytics/blob/master/Code/LSTM_Based_SOH_Prediction.py) **|** [LSTM_Based_SOH_Prediction.ipynb](https://github.com/YJPark0421/NASA-PCoE-Battery-Analytics/blob/master/Code/LSTM_Based_SOH_Prediction.ipynb)
    > - [SVM_Based_SOH_Prediction.py](https://github.com/YJPark0421/NASA-PCoE-Battery-Analytics/blob/master/Code/SVM_Based_SOH_Prediction_v0.1.py) **|** [SVM_Based_SOH_Prediction.ipynb](https://github.com/YJPark0421/NASA-PCoE-Battery-Analytics/blob/master/Code/SVM_Based_SOH_Prediction_v0.1.ipynb)
-
+### ◽ Prediction Result Example
+   > 
 ### ◽ Understanding LSTM(Long Short-Term Memory)
 > **Read a Blog** - http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 ### ◽ Understanding SVM(Support Vector Machines)
