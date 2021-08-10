@@ -53,7 +53,7 @@ page_type | languages | products
    > - [LSTM_Based_SOH_Prediction.py](https://github.com/YJPark0421/NASA-PCoE-Battery-Analytics/blob/master/Code/LSTM_Based_SOH_Prediction.py) **|** [LSTM_Based_SOH_Prediction.ipynb](https://github.com/YJPark0421/NASA-PCoE-Battery-Analytics/blob/master/Code/LSTM_Based_SOH_Prediction.ipynb)
    > - [SVM_Based_SOH_Prediction.py](https://github.com/YJPark0421/NASA-PCoE-Battery-Analytics/blob/master/Code/SVM_Based_SOH_Prediction_v0.1.py) **|** [SVM_Based_SOH_Prediction.ipynb](https://github.com/YJPark0421/NASA-PCoE-Battery-Analytics/blob/master/Code/SVM_Based_SOH_Prediction_v0.1.ipynb)
 ### ◽ LSTM Based Model Prediction Result Example
-   > <p align="left"> <img src="https://user-images.githubusercontent.com/88306533/128865333-b2d2fc15-a00e-47db-a391-162ba7d65dfe.png" width="60%" height="60%"></img></p>
+   > <p align="left"> <img src="https://user-images.githubusercontent.com/88306533/128865333-b2d2fc15-a00e-47db-a391-162ba7d65dfe.png" width="50%" height="50%"></img></p>
 ### ◽ Understanding LSTM(Long Short-Term Memory)
 > **Read a Blog** - http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 ### ◽ Understanding SVM(Support Vector Machines)
