@@ -33,6 +33,7 @@ page_type | languages | products
    ⏬
 
  - ❷ type: operation type, can be charge, discharge or impedance
+ - ❸ Data: Nested Data Structure(Many Variables)
 
    |type | ambient_temperature | time | data|
    |:------:|:------:|:------:|:------:|
