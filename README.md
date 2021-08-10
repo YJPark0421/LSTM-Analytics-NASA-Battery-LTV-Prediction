@@ -45,13 +45,10 @@ page_type | languages | products
 <br>
 
 ## 3️⃣ Methodology
-### ◽ Part0 : Overview
-### ◽ Part1 : 
-   > - [Part1_.py](./Part1_.py) **|** [Part1_.ipynb](./Part1_.ipynb)
-### ◽ Part2 : Convert .mat to json
+### ◽ Part1 : Convert .mat to json
    > - [Part2_preprocessing.py](./Part2_preprocessing.py) **|** [Part2_preprocessing.ipynb](./Part2_preprocessing.ipynb)
-### ◽ Part3 : LSTM Based Modeling
-   > - [Part3_.py](./Part3_.py) **|** [Part3_.ipynb](./Part3_.ipynb)
+### ◽ Part2 : LSTM Based Modeling
+   > - [LSTM_Based_SOH_Prediction.py](./LSTM_Based_SOH_Prediction Using Battery Data_210810.py) **|** [LSTM_Based_SOH_Prediction.ipynb](./LSTM_Based_SOH_Prediction Using Battery Data_210810.ipynb)
 ### ◽ Understanding LSTM Networks
 > **Read a Blog** - http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 ---
