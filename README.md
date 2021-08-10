@@ -45,12 +45,18 @@ page_type | languages | products
 <br>
 
 ## 3️⃣ Methodology
-### ◽ Part1 : Convert .mat to json
-   > - [Part1_preprocessing.py](./Part2_preprocessing.py) **|** [Part2_preprocessing.ipynb](./Part2_preprocessing.ipynb)
-### ◽ Part2 : LSTM Based Modeling
+### ◽ Part1 : Convert .mat to Dataframe
+   > - [Convert .mat to Dataframe.py](https://github.com/YJPark0421/NASA-PCoE-Battery-Analytics/blob/master/Code/Preprocessing-Setup.py) **|** [Convert .mat to Dataframe.ipynb](https://github.com/YJPark0421/NASA-PCoE-Battery-Analytics/blob/master/Code/Preprocessing-Setup.ipynb)
+### ◽ Part2 : EDA(Exploratory Data Analysis)
+   > - [EDA-Battery-Data.py](https://github.com/YJPark0421/NASA-PCoE-Battery-Analytics/blob/master/Code/EDA-Battery-Data-v0.1.py) **|** [EDA-Battery-Data.ipynb](https://github.com/YJPark0421/NASA-PCoE-Battery-Analytics/blob/master/Code/EDA-Battery-Data-v0.1.ipynb) 
+### ◽ Part3 : Modeling
    > - [LSTM_Based_SOH_Prediction.py](https://github.com/YJPark0421/NASA-PCoE-Battery-Analytics/blob/master/Code/LSTM_Based_SOH_Prediction.py) **|** [LSTM_Based_SOH_Prediction.ipynb](https://github.com/YJPark0421/NASA-PCoE-Battery-Analytics/blob/master/Code/LSTM_Based_SOH_Prediction.ipynb)
-### ◽ Understanding LSTM Networks
+   > - [SVM_Based_SOH_Prediction.py](https://github.com/YJPark0421/NASA-PCoE-Battery-Analytics/blob/master/Code/SVM_Based_SOH_Prediction_v0.1.py) **|** [SVM_Based_SOH_Prediction.ipynb](https://github.com/YJPark0421/NASA-PCoE-Battery-Analytics/blob/master/Code/SVM_Based_SOH_Prediction_v0.1.ipynb)
+
+### ◽ Understanding LSTM(Long Short-Term Memory)
 > **Read a Blog** - http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+### ◽ Understanding SVM(Support Vector Machines)
+> **Watch a Youtube** - https://www.youtube.com/watch?v=eHsErlPJWUU
 ---
 <br>
 
