@@ -56,6 +56,7 @@ page_type | languages | products
    > <p align="left"> <img src="https://user-images.githubusercontent.com/88306533/128865333-b2d2fc15-a00e-47db-a391-162ba7d65dfe.png" width="55%" height="55%"></img></p>
 ### ◽ Understanding LSTM(Long Short-Term Memory)
    > <p align="left"> <img width="55%" height="55%" alt="rnn-lstm-cell" src="https://user-images.githubusercontent.com/88306533/129383011-a8bbea44-8cba-440c-a0de-a80e840689e6.png"></img></p>
+
    > **Read a Blog** - http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 ### ◽ Understanding SVM(Support Vector Machines)
    > **Watch a Youtube** - https://www.youtube.com/watch?v=eHsErlPJWUU
