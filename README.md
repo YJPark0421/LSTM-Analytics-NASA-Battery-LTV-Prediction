@@ -46,12 +46,12 @@ page_type | languages | products
 
 ## 3️⃣ Methodology
 ### ◽ Part1 : Convert .mat to Dataframe
-   > - [Convert .mat to Dataframe.py](https://github.com/YJPark0421/NASA-PCoE-Battery-Analytics/blob/master/Code/Preprocessing-Setup.py) **|** [Convert .mat to Dataframe.ipynb](https://github.com/YJPark0421/NASA-PCoE-Battery-Analytics/blob/master/Code/Preprocessing-Setup.ipynb)
+   > - [Convert .mat to Dataframe.ipynb](https://github.com/YJPark0421/LSTM-Analytics-NASA-Battery-LTV-Prediction/blob/master/Code/Preprocessing-Setup.ipynb)
 ### ◽ Part2 : EDA(Exploratory Data Analysis)
-   > - [EDA-Battery-Data.py](https://github.com/YJPark0421/NASA-PCoE-Battery-Analytics/blob/master/Code/EDA-Battery-Data-v0.1.py) **|** [EDA-Battery-Data.ipynb](https://github.com/YJPark0421/NASA-PCoE-Battery-Analytics/blob/master/Code/EDA-Battery-Data-v0.1.ipynb) 
+   > - [EDA-Battery-Data.ipynb](https://github.com/YJPark0421/LSTM-Analytics-NASA-Battery-LTV-Prediction/blob/master/Code/EDA-Battery-Data-v0.1.ipynb) 
 ### ◽ Part3 : Modeling
-   > - [LSTM_Based_SOH_Prediction.py](https://github.com/YJPark0421/NASA-PCoE-Battery-Analytics/blob/master/Code/LSTM_Based_SOH_Prediction.py) **|** [LSTM_Based_SOH_Prediction.ipynb](https://github.com/YJPark0421/NASA-PCoE-Battery-Analytics/blob/master/Code/LSTM_Based_SOH_Prediction.ipynb)
-   > - [SVM_Based_SOH_Prediction.py](https://github.com/YJPark0421/NASA-PCoE-Battery-Analytics/blob/master/Code/SVM_Based_SOH_Prediction_v0.1.py) **|** [SVM_Based_SOH_Prediction.ipynb](https://github.com/YJPark0421/NASA-PCoE-Battery-Analytics/blob/master/Code/SVM_Based_SOH_Prediction_v0.1.ipynb)
+   > - [LSTM_Based_SOH_Prediction.ipynb](https://github.com/YJPark0421/LSTM-Analytics-NASA-Battery-LTV-Prediction/blob/master/Code/LSTM_Based_SOH_Prediction_v0.1.ipynb)
+   > - [SVM_Based_SOH_Prediction.ipynb](https://github.com/YJPark0421/LSTM-Analytics-NASA-Battery-LTV-Prediction/blob/master/Code/SVM_Based_SOH_Prediction_v0.1.ipynb)
 ### ◽ LSTM Based Model Prediction Result Example
    > <p align="left"> <img src="https://user-images.githubusercontent.com/88306533/128865333-b2d2fc15-a00e-47db-a391-162ba7d65dfe.png" width="55%" height="55%"></img></p>
 ### ◽ Understanding LSTM(Long Short-Term Memory)
